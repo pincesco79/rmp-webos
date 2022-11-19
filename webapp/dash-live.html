@@ -4,7 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-	<title>Live DASH</title>
+	<title>RAI 4K</title>
 	<link rel="stylesheet" type="text/css" href="css/player.css">
 	<meta name="robots" content="noindex">
 </head>
@@ -13,7 +13,8 @@
 	<div id="rmp"></div>
 	<script>
 		var src = {
-			dash: 'https://5b44cf20b0388.streamlock.net:8443/live/ngrp:live_all/manifest.mpd'
+			//dash: 'https://5b44cf20b0388.streamlock.net:8443/live/ngrp:live_all/manifest.mpd'
+			dash: 'https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd?hdnea=st=1668884015~exp=1668884165~acl=/*~hmac=3519c7a465380d4e3c6eb90902843557728092ec410c3ca083c60fcc5537493d'
 		};
 		var settings = {
 			licenseKey: 'your-license-key',
@@ -23,7 +24,7 @@
 			capLevelToPlayerSize: false,
 			disableKeyboardControl: true,
 			contentMetadata: {
-				title: 'Live DASH',
+				title: 'RAI 4K',
 			},
 			skin: 'tv'
 		};

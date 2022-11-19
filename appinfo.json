@@ -1,10 +1,10 @@
 {
-    "id": "com.radiantmediaplayer.hostedhtmlsample",
-    "version": "1.0.0",
-    "vendor": "Radiant Media Player",
+    "id": "com.samplemediaplayer.hostedhtmlsample",
+    "version": "0.0.1",
+    "vendor": "Sample Media Player",
     "type": "web",
     "main": "index.html",
-    "title": "Hosted Web App for LG TV using Radiant Media Player",
+    "title": "Hosted Web App for LG TV using Sample Media Player",
     "icon": "icon.png",
     "largeIcon": "largeIcon.png",
 	"bgImage": "launchBGImage.png"
