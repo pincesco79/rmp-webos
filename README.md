@@ -1,6 +1,6 @@
 # rmp-webos
 
-RAI 4K demo player for DASH Widevine Coded content for webOS TV app (LG smart TV)
+Attempt to make a sample demo player for DASH Widevine Coded content for webOS TV app (LG smart TV)
 App forked by [Radiant Media Player](https://www.radiantmediaplayer.com) project for webOS TV app (LG smart TV)
 
 ## Usage
