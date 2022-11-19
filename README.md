@@ -1,10 +1,11 @@
 # rmp-webos
 
-A demo app for using [Radiant Media Player](https://www.radiantmediaplayer.com) in a webOS TV app (LG smart TV)
+RAI 4K demo player for DASH Widevine Coded content for webOS TV app (LG smart TV)
+App forked by [Radiant Media Player](https://www.radiantmediaplayer.com) project for webOS TV app (LG smart TV)
 
 ## Usage
 
-You can use Radiant Media Player to build media-oriented LG Smart TV applications.
+Radiant Media Player is used to build media-oriented LG Smart TV applications.
 The player is equipped with various optimisations, notably file:// protocol support, to work in the following environments:
 
 - Web applications for LG smart TV built for webOS 5+
